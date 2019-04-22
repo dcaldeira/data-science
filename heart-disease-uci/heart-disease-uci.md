@@ -1,5 +1,4 @@
 # Heart Disease - UCI
-<img src="img/uci_heart_disease.png" align="center" width="60%">
 
 Este projeto trata-se de um trabalho do curso de Data Science da Digital House ao qual o dedafio era dentre outras coisas, utilizar algoritmos de _Clusterização_ vistos no módulo e entender como eles trabalham no agrupamento dos dados. Teoricamente, o algorítimo deve classificar os dados de acordo com as variáveis explicativas, então será possível medir a precisão das classificações.
 
